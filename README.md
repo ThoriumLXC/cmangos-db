@@ -1,1 +1,1 @@
-# cmangos-db
+# cMaNGOS DB
